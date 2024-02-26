@@ -33,7 +33,7 @@ Replace `analysis_script.py` with the actual name of the script file.
 
 ## Figures
 
-The script generates figures based on the analysis and saves them in the `/mnt/data/analysis figures` directory. Ensure this directory exists or modify the script to point to a valid directory on your system.
+The script generates figures based on the analysis and saves them in the `analysis figures` directory. Ensure this directory exists or modify the script to point to a valid directory on your system.
 
 ## Data
 
