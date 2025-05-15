@@ -1,4 +1,3 @@
-
 # Sales Data Analysis Project
 
 This project analyzes sales data to identify sales trends, perform exploratory data analysis, and conduct basic statistical tests.
